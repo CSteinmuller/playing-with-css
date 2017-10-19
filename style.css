@@ -1,3 +1,7 @@
+ul, dl {
+    list-style:none;
+	width:100%;
+}
 html {
    overflow:auto;
    }
